@@ -1,4 +1,4 @@
-### Question Log
+## Question Log
 - **inc**: incomplete solution
 - **opt**: optimize the solution
 - **✅**: complete
