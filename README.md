@@ -4,6 +4,6 @@
 - **✅**: complete
 - **red**: redo question
 
-| Question    | Status      | Topics   | Link |
-| ----------- | ----------- | -------- | ---- |
-| 1570        | red         | Array, Hash Table, Design | [Question](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/)
+| Number      | Question |  Status     | Topics   | Language |
+| ----------- | -------- | ----------- | -------- | -------- |
+| 1570        |  [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/description/)           | red         | Array, Hash Table, Design | Java |
