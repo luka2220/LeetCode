@@ -1,5 +1,4 @@
-import java.util.HashSet;
-import java.util.Set;
+import java.util.Hashtable;
 
 public class Solution {
     public static void main(String[] args) {
@@ -16,9 +15,17 @@ public class Solution {
     }
 
     public boolean hasCycle(ListNode head) {
-        Set<ListNode> store = new HashSet<>();
-        var curr = head;
+        ListNode current = head;
+        Hashtable<ListNode, Integer> ht = new Hashtable<>();
 
+        while (current != null) {
+            if (ht.containsKey(current)) {
+                return true;
+            }
+
+            ht.put(current, 1);
+            current = current.next;
+        }
 
         return false;
     }
