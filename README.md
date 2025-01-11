@@ -13,3 +13,5 @@
 | 141        |  [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)  |    opt      | Hash Table, Linked List, Two Pointer | Java |
 | 232        |  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)  |    done      | Stack, Design, Queue | Java |
 | 733        |  [Flood Fill](https://leetcode.com/problems/flood-fill/description/)  |    redo      | Array, DFS, BFS, Matrix, Graph | Java |
+| 383        |  [Ransom Note](https://leetcode.com/problems/ransom-note/description/)  |    done      | HashTable, String, Counting | Java |
+
