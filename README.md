@@ -14,4 +14,4 @@
 | 232        |  [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/)  |    done      | Stack, Design, Queue | Java |
 | 733        |  [Flood Fill](https://leetcode.com/problems/flood-fill/description/)  |    redo      | Array, DFS, BFS, Matrix, Graph | Java |
 | 383        |  [Ransom Note](https://leetcode.com/problems/ransom-note/description/)  |    done      | HashTable, String, Counting | Java |
-
+| 206        |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)  |    done      | LinkedLIst, Recursion | Java |
