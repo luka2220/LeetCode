@@ -16,3 +16,5 @@
 | 383        |  [Ransom Note](https://leetcode.com/problems/ransom-note/description/)  |    done      | HashTable, String, Counting | Java |
 | 206        |  [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)  |    done      | LinkedList, Recursion | Java |
 | 104        |  [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  |    done      | Tree, DFS, BFS, Binary-Tree | python |
+| 136        |  [Single Number](https://leetcode.com/single-number/description/)  |    done      | Array, Bit Manipulation | c++ |
+| 409        |  [Logest Palindrome](https://leetcode.com/longest-palindrome/description/)  |    redo      | Hash Table, String Greedy | python |
