@@ -20,5 +20,6 @@
 | 409        |  [Longest Palindrome](https://leetcode.com/longest-palindrome/description/)  |    redo      | Hash Table, String Greedy | python |
 | 543        |  [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)  |    redo      | DFS, Binary Tree  | python |
 | 252        |  [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)  |    opt      | Array, Sorting  | python |
+| 412        |  [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)  |    done      | Math, String, Simulation  | java |
 
 
